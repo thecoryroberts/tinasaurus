@@ -169,7 +169,7 @@ const DocsCollection = {
 };
 
 const DocLinkTemplate = {
-  name: "doc",
+  name: "Doc",
   label: "Doc Link",
   ui: {
     itemProps: (item) => {
