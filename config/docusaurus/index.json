@@ -13,22 +13,9 @@
       "position": "left"
     },
     {
-      "label": "MDX Page",
-      "link": "page",
-      "docLink": "src/pages/Test-MDX-Page.mdx",
-      "pageLink": "src/pages/Test-MDX-Page.mdx",
-      "position": "left"
-    },
-    {
       "label": "coryroberts.net",
       "link": "external",
       "externalLink": "https://coryroberts.net",
-      "position": "right"
-    },
-    {
-      "label": "Tina",
-      "link": "external",
-      "externalLink": "https://tina.io/",
       "position": "right"
     }
   ],
