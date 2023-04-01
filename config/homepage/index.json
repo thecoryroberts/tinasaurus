@@ -21,9 +21,9 @@
           "image": "/img/error.png"
         },
         {
-          "title": "Powered by React",
-          "description": "Extend or customize your website layout by reusing React. Docusaurus can         be extended while reusing the same header and footer.\n",
-          "image": "/img/undraw_docusaurus_react.svg"
+          "title": "Code Snippets",
+          "description": "Repository for miscellaneous code snippets.\n",
+          "image": "/img/coding.png"
         }
       ],
       "_template": "features"
