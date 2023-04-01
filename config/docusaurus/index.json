@@ -66,12 +66,7 @@
           {
             "label": "Blog",
             "_template": "blog"
-          } ,
-          {
-            "label": "GitHub",
-            "href": "https://github.com/facebook/docusaurus",
-            "_template": "external"
-          } 
+          }
         ]
       }
     ],
