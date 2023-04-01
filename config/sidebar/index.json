@@ -6,7 +6,7 @@
       "link": "none",
       "items": [
         {
-          "title": "Teams",
+          "title": "PowerApps",
           "link": "generated",
           "_template": "category"
         },
@@ -16,12 +16,12 @@
           "_template": "category"
         },
         {
-          "title": "PowerApps",
+          "title": "SharePoint",
           "link": "generated",
           "_template": "category"
         },
         {
-          "title": "SharePoint",
+          "title": "Teams",
           "link": "generated",
           "_template": "category"
         }
