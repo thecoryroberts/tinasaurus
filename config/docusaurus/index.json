@@ -34,11 +34,11 @@
   ],
   "logo": {
     "alt": "Tina",
-    "src": "/img/tina-icon.svg"
+    "src": "/img/1677293451-profilepicture.avif"
   },
-  "title": "Tinasaurus",
+  "title": "CRNet KB",
   "footer": {
-    "style": "dark",
+    "style": "light",
     "links": [
       {
         "title": "Docs",
