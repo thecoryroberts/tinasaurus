@@ -6,6 +6,11 @@
       "link": "none",
       "items": [
         {
+          "title": "Teams",
+          "link": "none",
+          "_template": "category"
+        },
+        {
           "title": "Power Automate",
           "link": "generated",
           "_template": "category"
