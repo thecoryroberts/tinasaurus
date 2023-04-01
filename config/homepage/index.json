@@ -11,9 +11,9 @@
     {
       "items": [
         {
-          "title": "Easy to Use",
-          "description": "Docusaurus was designed from the ground up to be easily installed and         used to get your website up and running quickly.\n",
-          "image": "/img/undraw_docusaurus_mountain.svg"
+          "title": "Explore Docs",
+          "description": "Check out various snippets of dev knowledge that I've collected over time.  \n",
+          "image": "/img/browser.png"
         },
         {
           "title": "Focus on What Matters",
