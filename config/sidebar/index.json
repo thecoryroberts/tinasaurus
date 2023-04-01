@@ -2,6 +2,18 @@
   "label": "Docs Sidebar",
   "items": [
     {
+      "title": "O365",
+      "link": "none",
+      "items": [
+        {
+          "title": "SharePoint",
+          "link": "generated",
+          "_template": "category"
+        }
+      ],
+      "_template": "category"
+    },
+    {
       "title": "TinaCMS",
       "link": "generated",
       "_template": "category"
