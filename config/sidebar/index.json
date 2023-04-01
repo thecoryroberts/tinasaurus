@@ -2,6 +2,11 @@
   "label": "Docs Sidebar",
   "items": [
     {
+      "title": "PowerApps",
+      "link": "generated",
+      "_template": "category"
+    },
+    {
       "title": "SharePoint",
       "link": "generated",
       "_template": "category"
