@@ -2,6 +2,11 @@
   "label": "Docs Sidebar",
   "items": [
     {
+      "title": "TinaCMS",
+      "link": "generated",
+      "_template": "category"
+    },
+    {
       "title": "PowerApps",
       "link": "generated",
       "_template": "category"
