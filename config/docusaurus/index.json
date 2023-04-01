@@ -36,7 +36,7 @@
     "alt": "Cory Roberts",
     "src": "/img/1677293451-profilepicture.avif"
   },
-  "title": "CRNet KB",
+  "title": "coryroberts.net ",
   "footer": {
     "style": "dark",
     "links": [
@@ -72,5 +72,6 @@
     ],
     "copyright": "CoryRoberts.net"
   },
-  "url": "https://kb.coryroberts.net"
+  "url": "https://kb.coryroberts.net",
+  "tagline": "Personal Knowledge Base"
 }
