@@ -7,7 +7,7 @@
       "items": [
         {
           "title": "Teams",
-          "link": "none",
+          "link": "generated",
           "_template": "category"
         },
         {
