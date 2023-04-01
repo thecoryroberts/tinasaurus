@@ -6,7 +6,8 @@
       "link": "none",
       "items": [
         {
-          "link": "none",
+          "title": "Power Automate",
+          "link": "generated",
           "_template": "category"
         },
         {
