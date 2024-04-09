@@ -17,12 +17,20 @@
     "@docusaurus/core": "2.2.0",
     "@docusaurus/preset-classic": "2.2.0",
     "@mdx-js/react": "^1.6.22",
+<<<<<<< HEAD
     "@tinacms/cli": "^1.5.29",
+=======
+    "@tinacms/cli": "^1.5.3",
+>>>>>>> 3f929847cd202e454521936a5e4a605b609d6510
     "clsx": "^1.2.1",
     "prism-react-renderer": "^1.3.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+<<<<<<< HEAD
     "tinacms": "^1.5.20",
+=======
+    "tinacms": "^1.4.3",
+>>>>>>> 3f929847cd202e454521936a5e4a605b609d6510
     "title": "^3.5.3"
   },
   "devDependencies": {

@@ -1,7 +1,7 @@
 {
   "label": "Homepage",
-  "title": "Hello from Tina + Docusaurus!",
-  "description": "Description will go into a meta tag in <head />",
+  "title": "Welcome to coryroberts.net kb",
+  "description": "A personal knowledge repository for Cory Roberts",
   "blocks": [
     {
       "document": "docs/intro.mdx",
@@ -11,19 +11,19 @@
     {
       "items": [
         {
-          "title": "Easy to Use",
-          "description": "Docusaurus was designed from the ground up to be easily installed and         used to get your website up and running quickly.\n",
-          "image": "/img/undraw_docusaurus_mountain.svg"
+          "title": "Knowledge Base",
+          "description": "Check out various snippets of dev knowledge that I've collected over time.\n",
+          "image": "/img/web-development.png"
         },
         {
-          "title": "Focus on What Matters",
-          "description": "Docusaurus lets you focus on your docs, and we'll do the chores. Go ahead and move your docs into the docs directory.\n",
-          "image": "/img/undraw_docusaurus_tree.svg"
+          "title": "Troubleshooting",
+          "description": "Solutions to errors and other troubleshooting.\n",
+          "image": "/img/error.png"
         },
         {
-          "title": "Powered by React",
-          "description": "Extend or customize your website layout by reusing React. Docusaurus can         be extended while reusing the same header and footer.\n",
-          "image": "/img/undraw_docusaurus_react.svg"
+          "title": "Code Snippets",
+          "description": "Repository for miscellaneous code snippets.\n",
+          "image": "/img/coding.png"
         }
       ],
       "_template": "features"
